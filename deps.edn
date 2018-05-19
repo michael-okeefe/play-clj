@@ -1,4 +1,4 @@
 {:deps
-  {com.badlogicgames.gdx/gdx "1.9.3"}
-  {com.badlogicgames.gdx/gdx-box2d "1.9.3"}
-  {com.badlogicgames.gdx/gdx-bullet "1.9.3"}}
+  {com.badlogicgames.gdx/gdx {:mvn/version "1.9.3"}}
+  {com.badlogicgames.gdx/gdx-box2d {:mvn/version "1.9.3"}}
+  {com.badlogicgames.gdx/gdx-bullet {:mvn/version "1.9.3"}}}
